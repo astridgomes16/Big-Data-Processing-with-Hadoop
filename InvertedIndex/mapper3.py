@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import sys,os,re,ntpath
 import nltk
 from nltk.tokenize import word_tokenize
